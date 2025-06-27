@@ -1,14 +1,14 @@
 html {
   --section-background-color: linear-gradient(
     to bottom left,
-    rgba(17, 16, 16, 0.582),
-    rgba(12, 8, 24, 0.904)
+    rgb(5, 251, 239),
+    rgb(5, 251, 239)
   );
 
   --image-gradient: linear-gradient(
     to bottom left,
-    rgba(17, 16, 16, 0.678),
-    rgba(12, 10, 22, 0.863)
+    rgb(5, 251, 239),
+    rgb(5, 251, 239)
   );
 
   --imp-text-color: #c770f0;
@@ -160,7 +160,7 @@ button:focus {
 }
 
 .navbar-nav .nav-link {
-  color: white !important;
+  color: black !important;
   padding-right: 1rem !important;
   padding-left: 1rem !important;
 }
@@ -266,7 +266,7 @@ button:focus {
 
 .home-content {
   padding: 9rem 0 2rem !important;
-  color: whitesmoke;
+  color: black;
   text-align: left;
 }
 
@@ -324,7 +324,7 @@ button:focus {
 }
 
 .home-about-description {
-  color: white !important;
+  color: black !important;
   padding-top: 100px !important;
   padding-bottom: 20px !important;
   text-align: center;
@@ -339,7 +339,7 @@ button:focus {
 .home-about-social {
   text-align: center !important;
   padding-top: 25px;
-  color: white !important;
+  color: black !important;
 }
 
 .home-about-social-links {
@@ -461,7 +461,7 @@ button:focus {
 
 .project-card-view {
   box-shadow: 0 4px 5px 3px rgba(119, 53, 136, 0.459) !important;
-  color: white !important;
+  color: black !important;
   background-color: transparent !important;
   opacity: 0.9 !important;
   transition: all 0.5s ease 0s !important;
@@ -484,13 +484,13 @@ button:focus {
 .blog-card-view {
   background-color: transparent !important;
   box-shadow: 0 3px 3px 2px rgba(145, 77, 161, 0.459) !important;
-  color: white !important;
+  color: black !important;
   transition: all 0.5s ease 0s !important;
   height: 100% !important;
 }
 
 .blog-link {
-  color: white !important;
+  color: black !important;
   text-decoration: none !important;
 }
 
@@ -517,13 +517,13 @@ button:focus {
 }
 
 .btn-primary {
-  color: #fff !important;
+  color: black !important;
   background-color: #623686 !important;
   border-color: #623686 !important;
 }
 
 .btn-primary:hover {
-  color: #fff !important;
+  color: black !important;
   background-color: #6d20c5d7 !important;
   border-color: #6d20c5d7 !important;
 }
@@ -532,7 +532,7 @@ button:focus {
   box-shadow: none !important;
 }
 .project-heading {
-  color: white !important;
+  color: black !important;
   font-size: 2.3em !important;
   font-weight: 500 !important;
   padding-top: 10px !important;
@@ -547,7 +547,7 @@ button:focus {
   padding-top: 150px !important;
   padding-bottom: 30px !important;
   background-image: var(--section-background-color) !important;
-  color: white !important;
+  color: black !important;
 }
 
 .tech-icons {
@@ -583,7 +583,7 @@ button:focus {
 
 .quote-card-view {
   border: none !important;
-  color: white !important;
+  color: black !important;
   background-color: transparent !important;
 }
 
@@ -607,7 +607,7 @@ button:focus {
   padding-top: 110px !important;
   padding-bottom: 30px !important;
   background-image: var(--section-background-color) !important;
-  color: white !important;
+  color: black !important;
 }
 
 .resume {
