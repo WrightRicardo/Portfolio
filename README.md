@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website - v2.0<br/>
-  <a href="https://raulrivas302.vercel.app/" target="_blank">Raul Rivas</a>
+  <a href="https://portfolio-omega-lake-24.vercel.app/" target="_blank">Wright Ricardo</a>
 </h2>
 <div align="center">
 
@@ -14,7 +14,7 @@
 
 ## TL;DR
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Raul Rivas](https://github.com/RaulRivas302/My-Portfolio). Thanks!
+You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Wright Ricardo](https://portfolio-omega-lake-24.vercel.app/). Thanks!
 
 ## Built With
 

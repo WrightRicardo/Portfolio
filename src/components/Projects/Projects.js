@@ -27,8 +27,8 @@ function Projects() {
               isBlog={false}
               title="DropBox"
               description="Introducing DropBox, a cutting-edge data storage solution designed to cater to all your storage needs. Built using the robust capabilities of React JS, complemented by the aesthetic flexibility of HTML and CSS, DropBox ensures an impeccable user experience combined with uncompromised efficiency."
-              ghLink="https://github.com/RaulRivas302/dropbox.git"
-              demoLink="https://dropbox-teal.vercel.app/"
+              ghLink="https://github.com/WrightRicardo/dropbox-main"
+              demoLink="https://dropbox-main-wheat.vercel.app/"
             />
           </Col>
 
@@ -38,8 +38,8 @@ function Projects() {
               isBlog={false}
               title="ibl-education"
               description="Welcome to IBL-Education, a groundbreaking educational platform sculpted to address and facilitate all your academic requirements. Crafted meticulously using the dynamic capabilities of React JS, and enhanced with the visual appeal of HTML and CSS, IBL-Education stands as a testament to what's possible when technology meets pedagogy."
-              ghLink="https://github.com/RaulRivas302/IBLEducation.git"
-              demoLink="https://ibl-education.vercel.app/"
+              ghLink="https://github.com/WrightRicardo/ibleeducation-main"
+              demoLink="https://ibleeducation-main.vercel.app/"
             />
           </Col>
 
@@ -47,10 +47,31 @@ function Projects() {
             <ProjectCard
               imgPath={editor}
               isBlog={false}
-              title="Editor.io"
-              description="Online code and markdown editor build with react.js. Online Editor which supports html, css, and js code with instant view of website. Online markdown editor for building README file which supports GFM, Custom Html tags with toolbar and instant preview.Both the editor supports auto save of work using Local Storage"
-              ghLink="https://github.com/RaulRivas302/rock_paper_scissors.git"
-              demoLink="https://github.com/RaulRivas302/rock_paper_scissors.git"
+              title="Password generator"
+              description="A Random Password Generator is a tool that creates secure and unpredictable passwords by randomly selecting characters, numbers, and symbols, ensuring a high level of security for user accounts.Crafted meticulously using the dynamic capabilities of HTML, CSS and javascript."
+              ghLink="https://github.com/WrightRicardo/random-password-generator"
+              demoLink="https://random-password-generator-beta-eight.vercel.app/"
+            />
+          </Col>
+
+           <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={editor}
+              isBlog={false}
+              title="E-Com Store"
+              description=" E-com store built with Next.js is a platform that offers a seamless and dynamic shopping experience, leveraging the power of React, server-side rendering, and static site generation. Crafted meticulously using the capabilities of Next.js, HTML, CSS, and JavaScript, it ensures fast loading times."
+              ghLink="https://github.com/WrightRicardo/E-com"
+             
+            />
+          </Col>
+           <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={editor}
+              isBlog={false}
+              title="Book Store"
+              description="A Book Store built using the MERN stack is a robust platform that combines the power of JavaScript on both the client and server side. With MongoDB as the database, Express.js for backend routing, React for building dynamic user interfaces, and Node.js for server-side logic."
+              ghLink="https://github.com/WrightRicardo/bookStore-MERN-Full-Stack"
+             
             />
           </Col>
 
